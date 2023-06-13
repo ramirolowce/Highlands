@@ -1,2 +1,2 @@
 # Highlands
-Página Web Estática: Escuela Highlands.
+Página Web: Escuela Highlands.
