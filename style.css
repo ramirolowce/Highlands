@@ -1,0 +1,53 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.seccionEslogan{
+    position: relative;
+    width: 100%;
+    background-color: rgb(23, 158, 113);
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+}
+
+.navbar{
+    display: flex;
+    gap: 50px;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 20%;
+    background-color: rgb(23, 158, 113);
+    background-size: cover;
+    border-top: 3px white solid;
+    border-bottom: 3px white solid;
+}
+
+.secciones{
+    text-decoration: none;
+    list-style: none;
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.separadores{
+    width: 5px;
+    height: 100%;
+    color: white;
+    background-color: white;
+    margin: 0;
+}
+
+.escuela{
+    font-size: 30px;
+    color: black;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+}
+
